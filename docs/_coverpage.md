@@ -9,4 +9,4 @@
 
 
 [Git](https://github.com/docsifyjs/docsify/)
-[Get Started](README)
+[Get Started](Readme)
